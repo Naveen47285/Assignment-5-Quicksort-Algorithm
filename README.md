@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quicksort Assignment
 
 ## Overview
@@ -25,3 +26,6 @@ python performance_test.py
 
 ## Results
 Performance graphs are included showing comparison between deterministic and randomized Quicksort under different input conditions.
+=======
+# Assignment-5-Quicksort-Algorithm
+>>>>>>> c28697209c8a58ba5f65ab83a5ea50730a021a84
